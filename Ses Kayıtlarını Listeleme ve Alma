@@ -42,3 +42,10 @@ name%20*903123320404*&username=&password=
 Çıktı;
 /var/spool/asterisk/monitor/recording/trunk-sip-903123320404/20161118-110332-100-
 903123320404-1479456211.1297-69.wav
+
+*Aşağıdaki api ile ses kayıt dosyasını indirebilirsiniz.
+
+https://ipadresi:9999/cgi-bin/fileget.cgi?action=rcdownload&filename=recording/trunk-sip-
+908502591905/20161027-163425-100-905412535962-1477575265.426-
+
+5.gsm&username=&password=
